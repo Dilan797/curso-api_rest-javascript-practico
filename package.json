@@ -1,0 +1,15 @@
+{
+  "name": "consumo-api_rest-practico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Dilan797/curso-api_rest-javascript-practico.git)"
+  },
+  "author": "Sensei797",
+  "license": "MIT"
+}
